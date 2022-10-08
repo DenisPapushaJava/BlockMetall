@@ -1,0 +1,15 @@
+$mont: 'Montserrat', sans-serif;
+$ops: 'Open Sans', sans-serif;
+$orange: #FF7C03;
+$blue:#004C84;
+$blue-opacity:#004C8480;
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+
+}
+body{
+    font-family: $ops;
+}
